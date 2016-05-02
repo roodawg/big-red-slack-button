@@ -1,0 +1,8 @@
+
+{
+  "name": "big-red-slack-button",
+  "author": "matt@mplewis.com",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "It's a big red button that posts to Slack"
+}
